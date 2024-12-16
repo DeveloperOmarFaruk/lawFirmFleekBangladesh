@@ -14,11 +14,11 @@ Law Firm Management Web Design and Software Solution Agency Landing Page.
 4. Arrow Functions
 5. React Testify
 6. EmailJs-com
-27. Font Awesome
-28. Google Fonts
-29. HTML5
-30. CSS3
-31. Bootstrap5
+7. Font Awesome
+8. Google Fonts
+9. HTML5
+10. CSS3
+11. Bootstrap5
 
 #
 ### `Project Deploy`
