@@ -12,7 +12,7 @@ Law Firm Management Web Design and Software Solution Agency Landing Page.
 2. React Hooks
 3. Event Handlers
 4. Arrow Functions
-5. React Tostify
+5. React Testify
 6. EmailJs-com
 27. Font Awesome
 28. Google Fonts
