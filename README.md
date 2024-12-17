@@ -1,6 +1,7 @@
 # Here is some UI and work shown in this repository
 #
 [Live Preview Project](https://immigrotech.netlify.app/)
+###### It is not possible to publish the source code of this project because the authority of Fleek Bangladesh prohibits it.
 #
 ## Project Details
 #
